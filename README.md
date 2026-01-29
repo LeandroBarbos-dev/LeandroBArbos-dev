@@ -27,7 +27,7 @@ Additionally, I have basic knowledge of **game development**, which I pursue as 
 ## 🛠️ Tecnologias | Technologies
 
 - 🌐 HTML, CSS, JavaScript  
-- 🐘 PHP, Laravel  
+- 🐘 PHP Python 
 - ⚙️ Java (APIs), PHP (APIs)  
 - 📱 Ionic, Angular  
 - 🎮 Game programming (basic)  
