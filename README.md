@@ -8,7 +8,7 @@
 
 ## 🇧🇷 Sobre mim
 
-Sou formado pelo CEFET-MG como Técnico em Desenvolvimento de Sistemas. Tenho experiência sólida no desenvolvimento de sites e sistemas utilizando **PHP, HTML, CSS, JavaScript** e o framework **Laravel**.
+Sou formado pelo CEFET-MG como Técnico em Desenvolvimento de Sistemas. Tenho experiência sólida no desenvolvimento de sites e sistemas utilizando **PHP, HTML, CSS, JavaScript e Python**.
 
 Também desenvolvo **aplicativos híbridos** com **Ionic/Angular** e integro **APIs** criadas por mim em **Java ou PHP**.  
 Além disso, tenho conhecimento básico em **programação de jogos**, que cultivo como hobby.
@@ -17,7 +17,7 @@ Além disso, tenho conhecimento básico em **programação de jogos**, que culti
 
 ## 🇺🇸 About Me
 
-I'm a graduate of CEFET-MG as a **System Development Technician**, with solid experience building websites and systems using **PHP, HTML, CSS, JavaScript**, and the **Laravel** framework.
+I'm a graduate of CEFET-MG as a **System Development Technician**, with solid experience building websites and systems using **PHP, HTML, CSS, JavaScript and Python**.
 
 I also develop **hybrid mobile apps** with **Ionic/Angular**, and I integrate **APIs** built with **Java or PHP**.  
 Additionally, I have basic knowledge of **game development**, which I pursue as a hobby.
